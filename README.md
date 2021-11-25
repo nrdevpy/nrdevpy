@@ -18,8 +18,6 @@
 
 👨🏾‍💻 Yo sabía que yo quería trabajar con la informática desde pequeño, pero no sabía en que especializarme. Mi primer contacto con la programación fue con 15 años, empecé a informarme sobre el desarrollo de videojuegos y encontré un motor gráfico llamado **Unity**, en ese momento había tutoriales en youtube sobre como programar con C# y me puse a aprender, todo iba perfecto hasta que llegué a los **bucles**, mi cabeza no podía asimilar lo que estaba ocurriendo, así que me agobié y dejé de programar.
 
-
-
 # Profesional
 
 📝 En mayo de 2020 decidí empezar a programar de nuevo, pero con unas ideas más claras. Me definí un objetivo a largo plazo, que era ser **Programador de Videojuegos**, debido a que no quería ejercer de camarero toda mi vida, hice un estudio laboral en España, y llegué a la conclusión de que la programación web era la más demandada, por lo que tome la decisión de estudiar programación web en Udemy. Me puse a aprender HTML, CSS, Python y DJango (un caos de ruta para empezar a programar).
@@ -33,8 +31,6 @@
 👨🏾‍💼 Actualmente estoy buscando una empresa donde poner en práctica lo aprendido y aportar mis habilidades como Desarrollador Web Frontend.
 
 [Portafolio](https://nrdevpy.github.io/Portfolio)
-
-<br><br><br>
 
 # Redes Sociales
 <a href="https://twitter.com/N3LSONROJ4S">
@@ -51,7 +47,7 @@
     <img align="left" src="img/twitch.png" width="48">
 </a>
 
-<br><br><br>
+<br><br>
 
 # Tecnologías
 <img align="left" src="img/html-5.png" width="48">
@@ -60,5 +56,3 @@
 <img align="left" src="img/sass.png" width="48">
 <img align="left" src="img/git.png" width="48">
 <img align="left" src="img/github.png" width="48">
-
-<br><br>
