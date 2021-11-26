@@ -1,6 +1,6 @@
 # Sobre mí
 
-👋 Hola me llamo Nelson Rojas soy **Desarrollador Web Frontend**, me considero una persona sociable, divertida y amable.
+👋 Hola me llamo Nelson Rojas soy **Desarrollador Web Frontend**, me considero una persona extrovertida, divertida y amable.
 
 
 
