@@ -20,11 +20,11 @@
 
 ## Profesional
 
-📝 En mayo de 2020 decidí empezar a programar de nuevo, pero con unas ideas más claras. Me definí un objetivo a largo plazo, que era ser **Programador de Videojuegos**, debido a que no quería ejercer de camarero toda mi vida, hice un estudio laboral en España, y llegué a la conclusión de que la programación web era la más demandada, por lo que tome la decisión de estudiar programación web en Udemy. Me puse a aprender HTML, CSS, Python y DJango (un caos de ruta para empezar a programar).
+📝 En mayo de 2020 debido a que no quería ejercer de camarero toda mi vida, decidí empezar a programar de nuevo, pero con unas ideas más claras. Me definí un objetivo a largo plazo, que era ser **Programador de Videojuegos**, hice un estudio de mercado laboral en España, y llegué a la conclusión de que la programación web era la más demandada, por lo que tome la decisión de estudiar programación web en Udemy. Me puse a aprender HTML, CSS, Python y DJango (un caos de ruta para empezar a programar).
 
 
 
-🧐 En mayo de 2021 establecí una ruta de aprendizaje principal (evidentemente con la trinidad más popular) HTML > CSS > JavaScript (aunque todavía no he comenzado a estudiar JavaScript, tengo una bases solidas de Python), la diferencia es que esta vez, me tomé mi tiempo en aprender bien las bases de cada lenguaje (leyendo y haciendo proyectos). Practicando es como conocí realmente una profesión maravillosa.
+🧐 En mayo de 2021 establecí una ruta de aprendizaje principal (evidentemente con la trinidad más popular) HTML > CSS > JavaScript (aunque todavía no he comenzado a estudiar JavaScript, tengo una bases solidas de Python), la diferencia es que esta vez, me tomé mi tiempo en aprender bien las bases de cada lenguaje (leyendo y haciendo proyectos). Practicando fue como descrubí que el desarrollo web es un sector asombroso.
 
 ## Estado actual
 
