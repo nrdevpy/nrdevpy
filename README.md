@@ -10,6 +10,7 @@
 
 
 
+
 ## Comienzo
 
 🖥️🖱️ Me introducí en el sector de la tecnología cuando me regalaron mi primer portátil en **5º de primaria** con 12 años, aquí me dí cuenta de que quería trabajar en este sector. Recuerdo cuando aprendí a descargarme imágenes de google, por aquel entonces me creía un hacker.
@@ -33,12 +34,14 @@
 [Portafolio](https://nrdevpy.github.io/Portfolio)
 
 # Redes Sociales
-<a href="https://twitter.com/N3LSONROJ4S">
-    <img align="left" src="img/twitter.png" width="48">
+<a href="mailto:nelson_rojas_janda@hotmail.com">
+    <img loading="lazy" src="images/logos/mail.svg" alt="email" width="48">
 </a>
-
 <a href="https://www.linkedin.com/in/nelson-arismendi-rojas-janda-142476166/">
     <img align="left" src="img/linkedin.png" width="48">
+</a>
+<a href="https://twitter.com/N3LSONROJ4S">
+    <img align="left" src="img/twitter.png" width="48">
 </a>
 <a href="https://instagram.com/na_rj_?utm_medium=copy_link">
     <img align="left" src="img/instagram.png" width="48">
