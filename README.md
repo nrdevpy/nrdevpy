@@ -35,7 +35,7 @@
 
 # Redes Sociales
 <a href="mailto:nelson_rojas_janda@hotmail.com">
-    <img loading="lazy" src="images/logos/mail.svg" alt="email" width="48">
+    <img align="left" src="img/mail.png" alt="email" width="48">
 </a>
 <a href="https://www.linkedin.com/in/nelson-arismendi-rojas-janda-142476166/">
     <img align="left" src="img/linkedin.png" width="48">
