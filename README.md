@@ -1,3 +1,5 @@
+<img src="img/my-linkedin-banner.jpg">
+
 # Sobre mí
 
 👋 Hola me llamo Nelson Rojas soy **Desarrollador Web Frontend**, me considero una persona extrovertida, divertida y amable.
