@@ -53,6 +53,7 @@
 <img align="left" src="img/html-5.png" width="48">
 <img align="left" src="img/css.png" width="48">
 <img align="left" src="img/js.png" width="48">
-<img align="left" src="img/sass.png" width="48">
 <img align="left" src="img/git.png" width="48">
 <img align="left" src="img/github.png" width="48">
+
+CSS: Mobile first, (RWD) Responsive Web Design, BEM, grid y flexbox.
