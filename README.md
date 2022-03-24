@@ -61,4 +61,17 @@
 <img align="left" src="img/git.png" width="48">
 <img align="left" src="img/github.png" width="48">
 <br><br><br>
-CSS: Mobile first, (RWD) Responsive Web Design, BEM, grid y flexbox.
+
+## CSS
+* Flexbox.
+* Grid.
+* Custom Properties
+* (RWD) Responsive Web Design.
+* Mobile First.
+* (BEM) Block Element Modifier.
+
+## JavaScript
+* (DOM) Document Object Model.
+* (OOP) Object Oriented Programming.
+* Loops.
+* Arrays.
