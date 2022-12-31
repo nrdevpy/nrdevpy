@@ -33,7 +33,7 @@
 
 👨🏾‍💼 Actualmente estoy buscando una empresa donde poner en práctica lo aprendido y aportar mis habilidades como Desarrollador Web Frontend.
 
-[Portafolio](https://nrdevpy.github.io/Portfolio)
+[Portafolio](https://www.nelsonrojas.website)
 
 # Redes Sociales
 <a href="mailto:nelson_rojas_janda@hotmail.com">
@@ -60,18 +60,3 @@
 <img align="left" src="img/js.png" width="48">
 <img align="left" src="img/git.png" width="48">
 <img align="left" src="img/github.png" width="48">
-<br><br><br>
-
-## CSS
-* Flexbox.
-* Grid.
-* Custom Properties
-* (RWD) Responsive Web Design.
-* Mobile First.
-* (BEM) Block Element Modifier.
-
-## JavaScript
-* (DOM) Document Object Model.
-* (OOP) Object Oriented Programming.
-* Loops.
-* Arrays.
