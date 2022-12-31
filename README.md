@@ -39,7 +39,7 @@
 <a href="mailto:nelson_rojas_janda@hotmail.com">
     <img align="left" src="img/mail.png" alt="email" width="48">
 </a>
-<a href="https://www.linkedin.com/in/nelson-arismendi-rojas-janda-142476166/">
+<a href="www.linkedin.com/in/nr-dev">
     <img align="left" src="img/linkedin.png" width="48">
 </a>
 <a href="https://twitter.com/N3LSONROJ4S">
@@ -47,9 +47,6 @@
 </a>
 <a href="https://instagram.com/na_rj_?utm_medium=copy_link">
     <img align="left" src="img/instagram.png" width="48">
-</a>
-<a href="https://www.twitch.tv/ev1lbl4ck">
-    <img align="left" src="img/twitch.png" width="48">
 </a>
 
 <br><br>
