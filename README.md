@@ -39,7 +39,7 @@
 <a href="mailto:nelson_rojas_janda@hotmail.com">
     <img align="left" src="img/mail.png" alt="email" width="48">
 </a>
-<a href="www.linkedin.com/in/nr-dev">
+<a href="https://www.linkedin.com/in/nr-dev">
     <img align="left" src="img/linkedin.png" width="48">
 </a>
 <a href="https://twitter.com/N3LSONROJ4S">
