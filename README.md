@@ -29,10 +29,6 @@
 
 🧐 En mayo de 2021 establecí una ruta de aprendizaje principal (evidentemente con la trinidad más popular) HTML > CSS > JavaScript (aunque todavía no he comenzado a estudiar JavaScript, tengo una bases solidas de Python), la diferencia es que esta vez, me tomé mi tiempo en aprender bien las bases de cada lenguaje (leyendo y haciendo proyectos). Practicando fue como descrubí que el desarrollo web es un sector asombroso.
 
-## Estado actual
-
-👨🏾‍💼 Actualmente estoy buscando una empresa donde poner en práctica lo aprendido y aportar mis habilidades como Desarrollador Web Frontend.
-
 [Portafolio](https://www.nelsonrojas.website)
 
 # Redes Sociales
