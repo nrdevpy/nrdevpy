@@ -1,37 +1,29 @@
 <img src="img/my-linkedin-banner.jpg">
 
-# Sobre mí
+# About me
 
-👋 Hola me llamo Nelson Rojas soy **Desarrollador Web Frontend**, me considero una persona extrovertida, divertida y amable.
+👋 Hi, my name is Nelson Rojas, I am a **Frontend Web Developer**. I consider myself an outgoing, fun, and friendly person.
 
+## Hobbies
 
+🎮 In my free time, I enjoy playing video games, especially those in the **Survival** or **RPG** genres.
 
-## Hobby
+## Beginnings
 
-🎮 En mi tiempo libre me gusta jugar a videojuegos especialmente si es de género **Survival** o **RPG**.
+🖥️🖱️ I was introduced to the tech world when I received my first laptop in 5th grade at the age of 12. It was then that I realized I wanted to work in this sector. I remember learning how to download images from Google and feeling like a hacker.
 
+👨‍💻 I knew I wanted to work with computers from a young age, but I wasn't sure which specialty to pursue. My first experience with programming came at the age of 15 when I started researching video game development and found a game engine called **Unity**. At that time, there were tutorials on YouTube about programming with C#, and I started learning. Everything was going well until I encountered loops. My mind couldn't grasp what was happening, so I got overwhelmed and stopped programming.
 
+## Professional
+📝 In May 2020, because I didn't want to be a waiter for the rest of my life, I decided to start programming again, but this time with clearer goals. I set a long-term goal for myself: to become a Video Game Developer. I conducted a job market study in Spain and concluded that web development was in high demand. So, I decided to study web development on Udemy. I started learning HTML, CSS, Python, and Django (a chaotic path to begin programming).
 
+🧐 In May 2021, I established a primary learning path (with the obviously popular trinity) HTML, CSS, JavaScript (although I haven't started studying JavaScript yet, I had a solid foundation in Python). The difference this time was that I took my time to thoroughly learn the basics of each language (reading and doing projects). Through practice, I discovered that web development is an amazing field.
 
-## Comienzo
+👨‍💼 After two years of dedicated study and numerous projects,In August 2022, I finally secured a position at **Playtech** as a **Website Manager**. This role has allowed me to apply my skills and knowledge in a professional setting, managing and enhancing various web projects while contributing to the company's digital presence.
 
-🖥️🖱️ Me introducí en el sector de la tecnología cuando me regalaron mi primer portátil en **5º de primaria** con 12 años, aquí me dí cuenta de que quería trabajar en este sector. Recuerdo cuando aprendí a descargarme imágenes de google, por aquel entonces me creía un hacker.
+[Portafolio](https://nrdevpy.github.io/Portfolio/)
 
-
-
-👨🏾‍💻 Yo sabía que yo quería trabajar con la informática desde pequeño, pero no sabía en que especializarme. Mi primer contacto con la programación fue con 15 años, empecé a informarme sobre el desarrollo de videojuegos y encontré un motor gráfico llamado **Unity**, en ese momento había tutoriales en youtube sobre como programar con C# y me puse a aprender, todo iba perfecto hasta que llegué a los **bucles**, mi cabeza no podía asimilar lo que estaba ocurriendo, así que me agobié y dejé de programar.
-
-## Profesional
-
-📝 En mayo de 2020 debido a que no quería ejercer de camarero toda mi vida, decidí empezar a programar de nuevo, pero con unas ideas más claras. Me definí un objetivo a largo plazo, que era ser **Programador de Videojuegos**, hice un estudio de mercado laboral en España, y llegué a la conclusión de que la programación web era la más demandada, por lo que tome la decisión de estudiar programación web en Udemy. Me puse a aprender HTML, CSS, Python y DJango (un caos de ruta para empezar a programar).
-
-
-
-🧐 En mayo de 2021 establecí una ruta de aprendizaje principal (evidentemente con la trinidad más popular) HTML > CSS > JavaScript (aunque todavía no he comenzado a estudiar JavaScript, tengo una bases solidas de Python), la diferencia es que esta vez, me tomé mi tiempo en aprender bien las bases de cada lenguaje (leyendo y haciendo proyectos). Practicando fue como descrubí que el desarrollo web es un sector asombroso.
-
-[Portafolio](https://www.nelsonrojas.website)
-
-# Redes Sociales
+# Social Networks
 <a href="mailto:nelson_rojas_janda@hotmail.com">
     <img align="left" src="img/mail.png" alt="email" width="48">
 </a>
@@ -47,7 +39,7 @@
 
 <br><br>
 
-# Tecnologías
+# Technologies
 <img align="left" src="img/html-5.png" width="48">
 <img align="left" src="img/css.png" width="48">
 <img align="left" src="img/js.png" width="48">
