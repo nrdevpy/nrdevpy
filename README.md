@@ -25,16 +25,16 @@
 
 # Social Networks
 <a href="mailto:nelson_rojas_janda@hotmail.com">
-    <img align="left" src="img/email.png" alt="email" >
+    <img align="left" src="img/email.png" alt="email" width="50">
 </a>
 <a href="https://www.linkedin.com/in/nr-dev">
-    <img align="left" src="img/linkedin.png" alt="linkedin">
+    <img align="left" src="img/linkedin.png" alt="linkedin"width="50">
 </a>
 <a href="https://twitter.com/N3LSONROJ4S">
-    <img align="left" src="img/twitterx.png" alt="x or twitter">
+    <img align="left" src="img/twitterx.png" alt="x or twitter"width="50">
 </a>
 <a href="https://instagram.com/na_rj_?utm_medium=copy_link">
-    <img align="left" src="img/instagram.png" alt="instagram">
+    <img align="left" src="img/instagram.png" alt="instagram"width="50">
 </a>
 
 <br><br><br>
