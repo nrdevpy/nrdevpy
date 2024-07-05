@@ -21,7 +21,7 @@
 
 👨‍💼 After two years of dedicated study and numerous projects,In August 2022, I finally secured a position at **Playtech** as a **Website Manager**. This role has allowed me to apply my skills and knowledge in a professional setting, managing and enhancing various web projects while contributing to the company's digital presence.
 
-[Portafolio](https://nrdevpy.github.io/Portfolio/)
+[Portfolio](https://nrdevpy.github.io/Portfolio/)
 
 # Social Networks
 <a href="mailto:nelson_rojas_janda@hotmail.com">
