@@ -19,29 +19,47 @@
 
 🧐 In May 2021, I established a primary learning path (with the obviously popular trinity) HTML, CSS, JavaScript (although I haven't started studying JavaScript yet, I had a solid foundation in Python). The difference this time was that I took my time to thoroughly learn the basics of each language (reading and doing projects). Through practice, I discovered that web development is an amazing field.
 
-👨‍💼 After two years of dedicated study and numerous projects,In August 2022, I finally secured a position at **Playtech** as a **Website Manager**. This role has allowed me to apply my skills and knowledge in a professional setting, managing and enhancing various web projects while contributing to the company's digital presence.
+👨‍💼 After two years of dedicated study and numerous projects, In August 2022, I finally secured a position at **Playtech** as a **Website Manager**. This role has allowed me to apply my skills and knowledge in a professional setting, managing and enhancing various web projects while contributing to the company's digital presence.
 
 [Portfolio](https://nrdevpy.github.io/Portfolio/)
 
 # Social Networks
 <a href="mailto:nelson_rojas_janda@hotmail.com">
-    <img align="left" src="img/mail.png" alt="email" width="48">
+    <img align="left" src="img/email.png" alt="email" >
 </a>
 <a href="https://www.linkedin.com/in/nr-dev">
-    <img align="left" src="img/linkedin.png" width="48">
+    <img align="left" src="img/linkedin.png" alt="linkedin">
 </a>
 <a href="https://twitter.com/N3LSONROJ4S">
-    <img align="left" src="img/twitter.png" width="48">
+    <img align="left" src="img/twitterx.png" alt="x or twitter">
 </a>
 <a href="https://instagram.com/na_rj_?utm_medium=copy_link">
-    <img align="left" src="img/instagram.png" width="48">
+    <img align="left" src="img/instagram.png" alt="instagram">
 </a>
 
-<br><br>
+<br><br><br>
 
 # Technologies
-<img align="left" src="img/html-5.png" width="48">
-<img align="left" src="img/css.png" width="48">
-<img align="left" src="img/js.png" width="48">
-<img align="left" src="img/git.png" width="48">
-<img align="left" src="img/github.png" width="48">
+## Languages
+<img align="left" style="margin-inline-end: .6rem;" src="img/html-5.svg" alt="html5">
+<img align="left" style="margin-inline-end: .6rem;" src="img/css3.svg" alt="css3">
+<img align="left" style="margin-inline-end: .6rem;" src="img/javascript.svg" alt="javascript">
+<img align="left" style="margin-inline-end: .6rem;" src="img/typescript.svg" alt="typescript">
+<img align="left" style="margin-inline-end: .6rem;" src="img/python.svg" alt="python">
+<br><br><br>
+
+## JS Frameworks / Libraries
+<img align="left" style="margin-inline-end: .6rem;" src="img/nodejs.svg" alt="nodejs">
+<img align="left" style="margin-inline-end: .6rem;" src="img/react.svg" alt="react">
+<img align="left" style="margin-inline-end: .6rem;" src="img/express-js.svg" alt="expressjs">
+<br><br><br>
+
+## CSS Frameworks / Libraries
+<img align="left" style="margin-inline-end: .6rem;" src="img/tailwind-css.svg" alt="tailwindcss">
+<img align="left" style="margin-inline-end: .6rem;" src="img/sass.svg" alt="sass">
+<img align="left" style="margin-inline-end: .6rem;" src="img/bootstrap.svg" alt="bootstrap">
+<br><br><br>
+
+## Others
+<img align="left" style="margin-inline-end: .6rem;" src="img/git.svg" alt="git">
+<img align="left" style="margin-inline-end: .6rem;" src="img/github.svg" alt="github">
