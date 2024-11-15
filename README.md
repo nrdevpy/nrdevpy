@@ -42,7 +42,7 @@ In my free time, I enjoy playing video games, especially those in the <strong st
 
 <h3>Social Networks</h3>
 <a target="_blank" href="mailto:nelson_rojas_janda@hotmail.com">
-    <img align="left" src="img/mail.svg" alt="email" width="63">
+    <img align="left" src="img/mail.svg" alt="email" width="48">
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/nr-dev">
     <img align="left" src="img/linkedin.svg" alt="linkedin" width="48">
