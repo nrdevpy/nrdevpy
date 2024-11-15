@@ -40,8 +40,6 @@ This role has allowed me to apply my <strong style="color: #baa8ff;">skills</str
 
 In my free time, I enjoy playing video games, especially those in the <strong style="color: #baa8ff;">Survival</strong> or <strong style="color: #baa8ff;">RPG</strong> genres and spending time with friend and family.
 
-[Portfolio 🧑‍💻](https://nelsonrojas.dev)
-
 <h3>Social Networks</h3>
 <a target="_blank" href="mailto:nelson_rojas_janda@hotmail.com">
     <img align="left" src="img/mail.svg" alt="email" width="42">
@@ -55,7 +53,6 @@ In my free time, I enjoy playing video games, especially those in the <strong st
 <a target="_blank" href="https://instagram.com/na_rj_?utm_medium=copy_link">
     <img align="left" src="img/instagram.svg" alt="instagram"width="32">
 </a>
-
 <br><br><br>
 
 <h2 style="color:#baa8ff;">Technologies</h2>
@@ -83,3 +80,12 @@ In my free time, I enjoy playing video games, especially those in the <strong st
 <h3>Others</h3>
 <img width="32" align="left" style="margin-inline-end: .6rem;" src="img/git.svg" alt="git" title="git">
 <img width="32" align="left" style="margin-inline-end: .6rem;" src="img/github.svg" alt="github" title="github">
+
+<br><br><br>
+<h2>Portfolio Frontend Developer</h2>
+Would you like to see my portfolio and know more about me?
+Click on the image above or below to see my portfolio.
+<br><br>
+<a href="https://nelsonrojas.dev" target="_blank">
+        <img src="img/og-image.png" alt="Nelson Rojas - Frontend Web Developer" />
+</a>
