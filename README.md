@@ -44,42 +44,42 @@ In my free time, I enjoy playing video games, especially those in the <strong st
 
 <h3>Social Networks</h3>
 <a target="_blank" href="mailto:nelson_rojas_janda@hotmail.com">
-    <img align="left" src="img/mail.svg" alt="email" width="50">
+    <img align="left" src="img/mail.svg" alt="email" width="42">
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/nr-dev">
-    <img align="left" src="img/linkedin.svg" alt="linkedin"width="50">
+    <img align="left" src="img/linkedin.svg" alt="linkedin"width="32">
 </a>
 <a target="_blank" href="https://twitter.com/N3LSONROJ4S">
-    <img align="left" src="img/x.svg" alt="x or twitter"width="50">
+    <img align="left" src="img/x.svg" alt="x or twitter"width="32">
 </a>
 <a target="_blank" href="https://instagram.com/na_rj_?utm_medium=copy_link">
-    <img align="left" src="img/instagram.svg" alt="instagram"width="50">
+    <img align="left" src="img/instagram.svg" alt="instagram"width="32">
 </a>
 
 <br><br><br>
 
 <h2 style="color:#baa8ff;">Technologies</h2>
 <h3>Languages</h3>
-<img align="left" style="margin-inline-end: .6rem;" src="img/html-5.svg" alt="html5">
-<img align="left" style="margin-inline-end: .6rem;" src="img/css3.svg" alt="css3">
-<img align="left" style="margin-inline-end: .6rem;" src="img/javascript.svg" alt="javascript">
-<img align="left" style="margin-inline-end: .6rem;" src="img/typescript.svg" alt="typescript">
-<img align="left" style="margin-inline-end: .6rem;" src="img/python.svg" alt="python">
+<img width="32" align="left" style="margin-inline-end: .6rem;" src="img/html-5.svg" alt="html5">
+<img width="32" align="left" style="margin-inline-end: .6rem;" src="img/css3.svg" alt="css3">
+<img width="32" align="left" style="margin-inline-end: .6rem;" src="img/javascript.svg" alt="javascript">
+<img width="32" align="left" style="margin-inline-end: .6rem;" src="img/typescript.svg" alt="typescript">
+<img width="32" align="left" style="margin-inline-end: .6rem;" src="img/python.svg" alt="python">
 <br><br><br>
 
 <h3>JS Frameworks / Libraries</h3>
-<img align="left" style="margin-inline-end: .6rem;" src="img/astro.svg" alt="Astro">
-<img align="left" style="margin-inline-end: .6rem;" src="img/react.svg" alt="react">
-<img align="left" style="margin-inline-end: .6rem;" src="img/nodejs.svg" alt="nodejs">
-<img align="left" style="margin-inline-end: .6rem;" src="img/express-js.svg" alt="expressjs">
+<img width="32" align="left" style="margin-inline-end: .6rem;" src="img/astro.svg" alt="Astro">
+<img width="32" align="left" style="margin-inline-end: .6rem;" src="img/react.svg" alt="react">
+<img width="32" align="left" style="margin-inline-end: .6rem;" src="img/nodejs.svg" alt="nodejs">
+<img width="32" align="left" style="margin-inline-end: .6rem;" src="img/express-js.svg" alt="expressjs">
 <br><br><br>
 
 <h3>CSS Frameworks / Libraries</h3>
-<img align="left" style="margin-inline-end: .6rem;" src="img/tailwind-css.svg" alt="tailwindcss">
-<img align="left" style="margin-inline-end: .6rem;" src="img/sass.svg" alt="sass">
-<img align="left" style="margin-inline-end: .6rem;" src="img/bootstrap.svg" alt="bootstrap">
+<img width="32" align="left" style="margin-inline-end: .6rem;" src="img/tailwind-css.svg" alt="tailwindcss">
+<img width="32" align="left" style="margin-inline-end: .6rem;" src="img/sass.svg" alt="sass">
+<img width="32" align="left" style="margin-inline-end: .6rem;" src="img/bootstrap.svg" alt="bootstrap">
 <br><br><br>
 
 <h3>Others</h3>
-<img align="left" style="margin-inline-end: .6rem;" src="img/git.svg" alt="git">
-<img align="left" style="margin-inline-end: .6rem;" src="img/github.svg" alt="github">
+<img width="32" align="left" style="margin-inline-end: .6rem;" src="img/git.svg" alt="git">
+<img width="32" align="left" style="margin-inline-end: .6rem;" src="img/github.svg" alt="github">
