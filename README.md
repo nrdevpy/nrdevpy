@@ -1,48 +1,65 @@
-<a href="https://nelsonrojas.dev" target="_blank">
-<img src="img/my-linkedin-banner.jpg">
-</a>
+<h1 style="color:#baa8ff;">Nelson Rojas - Frontend Developer</h1>
+    <a href="https://nelsonrojas.dev" target="_blank">
+        <img src="img/og-image.png" alt="Nelson Rojas - Frontend Web Developer" />
+    </a>
+<br /><br />
 
-# About me
+<h2 style="color:#baa8ff;">About me</h2>
 
-👋 Hi, my name is Nelson Rojas, I am a **Frontend Web Developer**. I consider myself an outgoing, fun, and friendly person.
+Hi there!! 👋
 
-## Beginnings
+My name is Nelson Rojas, I am a <strong style="color: #baa8ff;">Frontend Developer</strong>. I consider myself an outgoing, fun, and friendly person.
 
-🖥️🖱️ I was introduced to the tech world when I received my first laptop in 5th grade at the age of 12. It was then that I realized I wanted to work in this sector. I remember learning how to download images from Google and feeling like a hacker.
+<h3>Beginnings</h3>
 
-👨‍💻 I knew I wanted to work with computers from a young age, but I wasn't sure which specialty to pursue. My first experience with programming came at the age of 15 when I started researching video game development and found a game engine called **Unity**. At that time, there were tutorials on YouTube about programming with C#, and I started learning. Everything was going well until I encountered loops. My mind couldn't grasp what was happening, so I got overwhelmed and stopped programming.
+I was introduced to the tech world when I received my first laptop in 5th grade at the age of 12. It was then that I realized I wanted to work in this sector (I remember learning how to download images from Google and feeling like a hacker).
 
-## Professional
-📝 In May 2020, because I didn't want to be a waiter for the rest of my life, I decided to start programming again, but this time with clearer goals. I set a long-term goal for myself: to become a Video Game Developer. I conducted a job market study in Spain and concluded that web development was in high demand. So, I decided to study web development on Udemy. I started learning HTML, CSS, Python, and Django (a chaotic path to begin programming).
+I knew I wanted to work with computers from a young age, but I wasn't sure which specialty to pursue.
 
-🧐 In May 2021, I established a primary learning path (with the obviously popular trinity) HTML, CSS, JavaScript (although I haven't started studying JavaScript yet, I had a solid foundation in Python). The difference this time was that I took my time to thoroughly learn the basics of each language (reading and doing projects). Through practice, I discovered that web development is an amazing field.
+My first experience with programming came at the age of 15 when I started researching video game development and found a game engine called <strong style="color: #baa8ff;">Unity</strong>. At that time, there were tutorials on YouTube about programming with <strong style="color: #baa8ff;">C#</strong>, and I started learning. 
 
-👨‍💼 After two years of dedicated study and numerous projects, In August 2022, I finally secured a position at **Playtech** as a **Website Manager**. This role has allowed me to apply my skills and knowledge in a professional setting, managing and enhancing various web projects while contributing to the company's digital presence.
+Everything was going well until I encountered loops. My mind couldn't grasp what was happening, so I got overwhelmed and stopped programming.
 
-## Hobbies
+<h3>Professional</h3>
+I decided to start programming again, but this time with 
+<strong style="color: #baa8ff;">clearer goals</strong>. I set a long-term goal for myself: to become a Video Game Developer. 
 
-🎮 In my free time, I enjoy playing video games, especially those in the **Survival** or **RPG** genres and spending time with friend and family.
+I conducted a job market study in Spain and concluded that web development was in high demand. So, I decided to study web development on Udemy. I started learning HTML, CSS, Python, and Django, a chaotic path to begin programming (It wents very bad and I had to find an alternative learning path).
 
-# [Portfolio 🧑‍💻](https://nelsonrojas.dev)
+I established a primary learning path (with the obviously popular trinity) <strong style="color: #baa8ff;">HTML</strong>, <strong style="color: #baa8ff;">CSS</strong>, <strong style="color: #baa8ff;">JavaScript</strong> (although I haven't started studying JavaScript yet, I had a solid foundation in Python). 
 
-# Social Networks
+The difference this time was that I took my time to thoroughly learn the basics of each language, <strong style="color: #baa8ff;">reading</strong> and developing <strong style="color: #baa8ff;">projects</strong>.
+
+Through practice, I discovered that I love web development is an amazing field where I could be working on this for the rest of my life.
+
+After two years of dedicated study and numerous projects, In August 2022, I finally secured a position at <strong style="color: #baa8ff;">Playtech</strong> as a <strong style="color: #baa8ff;">Website Manager</strong>.
+
+This role has allowed me to apply my <strong style="color: #baa8ff;">skills</strong> and <strong style="color: #baa8ff;">knowledge</strong> in a professional setting, managing and enhancing various side software projects while contributing to the company's digital presence.
+
+<h3>Hobbies</h3>
+
+In my free time, I enjoy playing video games, especially those in the <strong style="color: #baa8ff;">Survival</strong> or <strong style="color: #baa8ff;">RPG</strong> genres and spending time with friend and family.
+
+[Portfolio 🧑‍💻](https://nelsonrojas.dev)
+
+<h3>Social Networks</h3>
 <a target="_blank" href="mailto:nelson_rojas_janda@hotmail.com">
-    <img align="left" src="img/email.png" alt="email" width="50">
+    <img align="left" src="img/mail.svg" alt="email" width="50">
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/nr-dev">
-    <img align="left" src="img/linkedin.png" alt="linkedin"width="50">
+    <img align="left" src="img/linkedin.svg" alt="linkedin"width="50">
 </a>
 <a target="_blank" href="https://twitter.com/N3LSONROJ4S">
-    <img align="left" src="img/twitterx.png" alt="x or twitter"width="50">
+    <img align="left" src="img/x.svg" alt="x or twitter"width="50">
 </a>
 <a target="_blank" href="https://instagram.com/na_rj_?utm_medium=copy_link">
-    <img align="left" src="img/instagram.png" alt="instagram"width="50">
+    <img align="left" src="img/instagram.svg" alt="instagram"width="50">
 </a>
 
 <br><br><br>
 
-# Technologies
-## Languages
+<h2 style="color:#baa8ff;">Technologies</h2>
+<h3>Languages</h3>
 <img align="left" style="margin-inline-end: .6rem;" src="img/html-5.svg" alt="html5">
 <img align="left" style="margin-inline-end: .6rem;" src="img/css3.svg" alt="css3">
 <img align="left" style="margin-inline-end: .6rem;" src="img/javascript.svg" alt="javascript">
@@ -50,19 +67,19 @@
 <img align="left" style="margin-inline-end: .6rem;" src="img/python.svg" alt="python">
 <br><br><br>
 
-## JS Frameworks / Libraries
+<h3>JS Frameworks / Libraries</h3>
 <img align="left" style="margin-inline-end: .6rem;" src="img/astro.svg" alt="Astro">
 <img align="left" style="margin-inline-end: .6rem;" src="img/react.svg" alt="react">
 <img align="left" style="margin-inline-end: .6rem;" src="img/nodejs.svg" alt="nodejs">
 <img align="left" style="margin-inline-end: .6rem;" src="img/express-js.svg" alt="expressjs">
 <br><br><br>
 
-## CSS Frameworks / Libraries
+<h3>CSS Frameworks / Libraries</h3>
 <img align="left" style="margin-inline-end: .6rem;" src="img/tailwind-css.svg" alt="tailwindcss">
 <img align="left" style="margin-inline-end: .6rem;" src="img/sass.svg" alt="sass">
 <img align="left" style="margin-inline-end: .6rem;" src="img/bootstrap.svg" alt="bootstrap">
 <br><br><br>
 
-## Others
+<h3>Others</h3>
 <img align="left" style="margin-inline-end: .6rem;" src="img/git.svg" alt="git">
 <img align="left" style="margin-inline-end: .6rem;" src="img/github.svg" alt="github">
