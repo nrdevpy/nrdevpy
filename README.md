@@ -65,20 +65,20 @@ In my free time, I enjoy playing video games, especially those in the <strong st
 <img width="32" align="left" style="margin-inline-end: .6rem;" src="img/javascript.svg" alt="javascript">
 <img width="32" align="left" style="margin-inline-end: .6rem;" src="img/typescript.svg" alt="typescript">
 <img width="32" align="left" style="margin-inline-end: .6rem;" src="img/python.svg" alt="python">
-<br><br><br>
+<br><br>
 
 <h3>JS Frameworks / Libraries</h3>
 <img width="32" align="left" style="margin-inline-end: .6rem;" src="img/astro.svg" alt="Astro">
 <img width="32" align="left" style="margin-inline-end: .6rem;" src="img/react.svg" alt="react">
 <img width="32" align="left" style="margin-inline-end: .6rem;" src="img/nodejs.svg" alt="nodejs">
 <img width="32" align="left" style="margin-inline-end: .6rem;" src="img/express-js.svg" alt="expressjs">
-<br><br><br>
+<br><br>
 
 <h3>CSS Frameworks / Libraries</h3>
 <img width="32" align="left" style="margin-inline-end: .6rem;" src="img/tailwind-css.svg" alt="tailwindcss">
 <img width="32" align="left" style="margin-inline-end: .6rem;" src="img/sass.svg" alt="sass">
 <img width="32" align="left" style="margin-inline-end: .6rem;" src="img/bootstrap.svg" alt="bootstrap">
-<br><br><br>
+<br><br>
 
 <h3>Others</h3>
 <img width="32" align="left" style="margin-inline-end: .6rem;" src="img/git.svg" alt="git">
