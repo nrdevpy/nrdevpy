@@ -1,12 +1,10 @@
+<a href="https://nelsonrojas.dev" target="_blank">
 <img src="img/my-linkedin-banner.jpg">
+</a>
 
 # About me
 
 👋 Hi, my name is Nelson Rojas, I am a **Frontend Web Developer**. I consider myself an outgoing, fun, and friendly person.
-
-## Hobbies
-
-🎮 In my free time, I enjoy playing video games, especially those in the **Survival** or **RPG** genres.
 
 ## Beginnings
 
@@ -21,7 +19,11 @@
 
 👨‍💼 After two years of dedicated study and numerous projects, In August 2022, I finally secured a position at **Playtech** as a **Website Manager**. This role has allowed me to apply my skills and knowledge in a professional setting, managing and enhancing various web projects while contributing to the company's digital presence.
 
-[Portfolio](https://nrdevpy.github.io/Portfolio/)
+## Hobbies
+
+🎮 In my free time, I enjoy playing video games, especially those in the **Survival** or **RPG** genres and spending time with friend and family.
+
+# [Portfolio 🧑‍💻](https://nelsonrojas.dev)
 
 # Social Networks
 <a target="_blank" href="mailto:nelson_rojas_janda@hotmail.com">
@@ -49,8 +51,9 @@
 <br><br><br>
 
 ## JS Frameworks / Libraries
-<img align="left" style="margin-inline-end: .6rem;" src="img/nodejs.svg" alt="nodejs">
+<img align="left" style="margin-inline-end: .6rem;" src="img/astro.svg" alt="Astro">
 <img align="left" style="margin-inline-end: .6rem;" src="img/react.svg" alt="react">
+<img align="left" style="margin-inline-end: .6rem;" src="img/nodejs.svg" alt="nodejs">
 <img align="left" style="margin-inline-end: .6rem;" src="img/express-js.svg" alt="expressjs">
 <br><br><br>
 
