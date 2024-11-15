@@ -41,7 +41,11 @@ This role has allowed me to apply my <strong style="color: #baa8ff;">skills</str
 In my free time, I enjoy playing video games, especially those in the <strong style="color: #baa8ff;">Survival</strong> or <strong style="color: #baa8ff;">RPG</strong> genres and spending time with friend and family.
 
 <h3>Social Networks</h3>
-<a target="_blank" href="mailto:nelson_rojas_janda@hotmail.com">
+<a target="_blank" href="mailto:nelson_rojas_janda@hotmail.com" style="
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+">
     <img align="left" src="img/mail.svg" alt="email" width="48">
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/nr-dev">
