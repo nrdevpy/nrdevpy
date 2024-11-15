@@ -83,8 +83,7 @@ In my free time, I enjoy playing video games, especially those in the <strong st
 
 <br><br><br>
 <h2>Portfolio Frontend Developer</h2>
-Would you like to see my portfolio and know more about me?
-Click on the image above or below to see my portfolio.
+If you would like to see my portfolio and know more about me, click on the image above or below to see my portfolio.
 <br><br>
 <a href="https://nelsonrojas.dev" target="_blank">
         <img src="img/og-image.png" alt="Nelson Rojas - Frontend Web Developer" />
